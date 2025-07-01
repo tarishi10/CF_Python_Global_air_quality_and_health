@@ -11,3 +11,4 @@ Does it vart across different population density and spatial settings?
 # Link: https://www.kaggle.com/datasets/tfisthis/global-air-quality-and-respiratory-health-outcomes/data
 
 The link for the JSON dataset for countries to perform geospatial mapping: https://datahub.io/core/geo-countries#resource-countries 
+Tableau link: https://public.tableau.com/app/profile/tarishi.sharma/viz/Globalpm2_5andhospitaladmissions/Airqualityandhealth
